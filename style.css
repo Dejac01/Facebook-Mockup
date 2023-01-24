@@ -1,7 +1,7 @@
 @media (max-width: 2880px) {
     body {
-      background-color: rgb(19, 1, 1);
-      color: rgb(39, 4, 238);
+      background-color: rgb(141, 139, 139);
+      color: rgb(4, 152, 238);
     }
 
    
@@ -88,7 +88,7 @@
     }
     .navContainer {
       background-color: #0d0d0e;
-      border: solid #0749a0;
+      border: solid #68a6f8;
       height: 52px;
       display: flex;
       justify-content: space-between;
