@@ -1,13 +1,13 @@
 @media (max-width: 2880px) {
     body {
-      background-color: rgb(62, 108, 248);
-      color: rgb(255, 255, 255);
+      background-color: rgb(19, 1, 1);
+      color: rgb(39, 4, 238);
     }
 
    
   ​
     .navContainer {
-      background-color: rgb(241, 241, 245);
+      background-color: rgb(24, 24, 243);
       border: solid #eef1f5;
       height: 52px;
       display: flex;
@@ -307,8 +307,8 @@
     height:6vh;
   }
 
-  .TL{ color: white;}
-  .TimeL{color: white; text-align: center;}
+  .TL{ color: rgb(82, 21, 252);}
+  .TimeL{color: rgb(27, 12, 240); text-align: center;}
 
 
   .p1{ color: #0f0f0f;
