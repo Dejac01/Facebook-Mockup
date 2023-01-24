@@ -5,7 +5,7 @@
     }
 
    
-  ​
+  
     .navContainer {
       background-color: rgb(24, 24, 243);
       border: solid #eef1f5;
@@ -24,37 +24,37 @@
    
     .search{color: #ecf1f3;}
 
-  ​
+  
     .left {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
+  
     .mid {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
+  
     .right {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
+  
     .nlTab {
       border: solid rgb(255, 249, 249);
       border-width: .2px;
       width: 40px;
       height: 40px;
       border-radius: 50%;
-  ​
+  
     }
-  ​
+  
     .mainContainer {
       border: solid #333C3F;
       height: 600vh;
@@ -63,38 +63,29 @@
       border-width: .2px;
       
     }
-  ​
+  
     .leftBar {
       border: solid #3f4747;
       border-width: .2px;
       width: 20%;
       display: block;
     }
-  ​
     .mainScrollContainer {
       border: solid black;
       border-width: .2px;
       width: 60%;
-      display: block;
-    }
-  ​
-    .rightBar {
+      display: block; }
+         .rightBar {
       border: solid #000003;
       border-width: .2px;
       width: 20%;
-      display: block;
-    }
-  ​
-  }
-  ​
+      display: block; }}
   /*------- Desktop-------------------------- */
   @media (max-width: 1280px) {
     body {
       background-color: black;
       color: salmon;
-  ​
     }
-  ​
     .navContainer {
       background-color: #0d0d0e;
       border: solid #0749a0;
@@ -103,38 +94,34 @@
       justify-content: space-between;
       width: 100%;
       /* position: fixed; */
-    }
-  ​
+    } 
+
     .left {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
-    }
-  ​
+    } 
     .mid {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
+
     .right {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
     .nlTab {
       border: solid rgb(2, 0, 0);
       border-width: .2px;
       width: 40px;
       height: 40px;
       border-radius: 50%;
-  ​
     }
-  ​
     .mainContainer {
       border: solid black;
       height: 600vh;
@@ -142,38 +129,34 @@
       justify-content: space-evenly;
       border-width: .2px;
     }
-  ​
     .leftBar {
       border: solid #f7f8fa;
       border-width: .2px;
       width: 0%;
       display: none;
     }
-  ​
     .mainScrollContainer {
       border: solid #121fd4;
       border-width: .2px;
       width: 70%;
       display: block;
     }
-  ​
+
     .rightBar {
       border: solid #1422df;
       border-width: .2px;
       width: 30%;
       display: block;
     }
-  ​
   }
-  ​
   /* -------------Ipad----------------------- */
   @media (max-width: 680px) {
     body {
       background-color: black;
       color: white;
-  ​
+ 
     }
-  ​
+  
     .navContainer {
       background-color: black;
       border: solid #333C3F;
@@ -183,37 +166,36 @@
       width: 100%;
       /* position: fixed; */
     }
-  ​
+  
     .left {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
+  
     .mid {
       width: 40%;
       display: none;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
+  
     .right {
       width: 40%;
       display: flex;
       justify-content: space-evenly;
       margin: 3px;
     }
-  ​
+  
     .nlTab {
       border: solid rgb(0, 153, 255);
       border-width: .2px;
       width: 40px;
       height: 40px;
       border-radius: 50%;
-  ​
-    }
-  ​
+     }
+  
     .mainContainer {
       border: solid #333C3F;
       height: 600vh;
@@ -221,7 +203,7 @@
       justify-content: space-evenly;
       border-width: .2px;
     }
-  ​
+  
     .leftBar {
       /* border: solid white; */
       border-width: .2px;
@@ -229,7 +211,7 @@
       display: none;
       color: blue;
     }
-  ​
+  
     .mainScrollContainer {
       padding-top:3vh;
       border: solid black;
@@ -237,25 +219,25 @@
       width: 100%;
       display: block;
     }
-  ​
+  
     .rightBar {
       border: solid black;
       border-width: .2px;
       width: 0%;
       display: none;
     }
-  ​
+  
   }
-  ​
-  ​
+  
+  
   /* -----------Mobile ----------------------*/
-  ​
+  
   /* --------------------------------------- */
   .categoryContainer {
     border: solid #333C3F;
     margin-top: 10%;
   }
-  ​
+  
   .icon {
     border: solid rgb(4, 78, 238);
     height: 60px;
@@ -312,16 +294,16 @@
 
 
   .p1{ color: #0f0f0f;
-background-color: #eef1f5;.
+background-color: #eef1f5;
   }
 
   
   .p2{ color: #0f0f0f;
-    background-color: #eef1f5;.
+    background-color: #eef1f5;
       }
   
       .p3{ color: #0f0f0f;
-        background-color: #eef1f5;.
+        background-color: #eef1f5;
           }
 
           
